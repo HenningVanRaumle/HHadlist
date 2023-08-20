@@ -6,6 +6,7 @@ banners.belmediaverlag.com
 sankjerusalemflabbergasted.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
 pagead2.googleadservices.com
 afs.googlesyndication.com
 adm.hotjar.com
@@ -42,3 +43,4 @@ grs.hicloud.com
 advertising.apple.com
 api-adservices.apple.com
 books-analytics-events.apple.com
+https://supportmetrics.apple.com
