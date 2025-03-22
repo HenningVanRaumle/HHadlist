@@ -8,6 +8,7 @@ afs.googlesyndication.com
 analytics.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 api-adservices.apple.com
+api.ad.intl.xiaomi.com
 banners.belmediaverlag.com
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
@@ -32,8 +33,10 @@ udcm.yahoo.com
 ||3lift.com^
 ||adform.net^
 ||adjust.com^
+||adligature.com^
 ||adnami.io^
 ||adnxs-simple.com^
+||adnxs.com^
 ||adnxs.net^
 ||adpushup.com^
 ||adrecover.com^
