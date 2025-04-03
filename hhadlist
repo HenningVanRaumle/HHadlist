@@ -21,6 +21,7 @@ events.reddit.com
 impression.appsflyer.com
 log.byteoversea.com
 log.fc.yahoo.com
+nemo.logs.roku.com
 pagead2.googleadservices.com
 prod.ads.prod.webservices.mozgcp.net
 sankjerusalemflabbergasted.com
@@ -30,34 +31,38 @@ udc.yahoo.com
 udcm.yahoo.com
 
 
-||3lift.com^
-||ad-production-stage.com^
+||360yield.com^						#360yield.com	ad.360yield.com	dsp.360yield.com
+||3lift.com^						#eb2.3lift.com
+||ad-preview.com^					#intern-dev.ad-preview.com
+||ad-production-stage.com^			#osmtiles.ad-production-stage.com	tr.ad-production-stage.com	www.ad-production-stage.com
 ||adform.net^
-||adition.com^
+||adition.com^						#ad2.adfarm1.adition.com
 ||adjust.com^
 ||adligature.com^
 ||admanmedia.com^
 ||adnami.io^
 ||adnxs-simple.com^
-||adnxs.com^
-||adnxs.net^
+||adnxs.com^						#acdn.adnxs.com	ib.adnxs.com	msft-ssp-emea.adnxs.com
+||adnxs.net^						#shftr.adnxs.net
 ||adnz.co^
 ||adpushup.com^
 ||adquery.io^
 ||adrecover.com^
 ||adrtx.net^
 ||ads-img.mozilla.org^
-||ads.roku.com^
-||adscale.de^
+||ads.roku.com^						#identity.ads.roku.com
+||adscale.de^						#fsc.adscale.de	ih.adscale.de
 ||adsmoloco.com^
-||adx.opera.com^
-||amandahugnkiss.org^
-||app-measurement.com^
+||adtrafficquality.google^			#ep1.adtrafficquality.google	ep2.adtrafficquality.google
+||adx.opera.com^					#t.adx.opera.com
+||agma-analytics.de^				#pbc.agma-analytics.de
+||amandahugnkiss.org^				#amandahugnkiss.org
+||app-measurement.com^				#app-measurement.com	region1.app-measurement.com
 ||applovin.com^
 ||applvn.com^
 ||appsflyersdk.com^
 ||audacity.de^
-||baidu.com^
+||baidu.com^						#www.baidu.com
 ||bidmachine.io^
 ||chestgoingpunch.com^
 ||ejectbagsindefinite.com^
@@ -69,27 +74,30 @@ udcm.yahoo.com
 ||hotjar.com^
 ||hotjar.io^
 ||hrtyj.com^
-||ioam.de^
+||ioam.de^							#script.ioam.de
 ||luckyorange.com^
 ||mouseflow.com^
 ||mtgglobals.com^
-||nativendo.de^
+||nativendo.de^						#c.nativendo.de	d.nativendo.de
 ||nicklusia.com^
 ||novabeyond.com^
 ||safedk.com^
 ||sendgrid.net^
 ||sexfindyou25.com^
-||smaato.net^
-||sportsballhub.com^
-||stroeerdigitalgroup.de^
-||taboola.com^
+||sharethrough.com^					#www.sharethrough.com	match.sharethrough.com
+||smaato.net^						#s.ad.smaato.net
+||smartadserver.com^				#rtb-csync.smartadserver.com	prg.smartadserver.com	ssbsync.smartadserver.com	ssbsync-global.smartadserver.com
+||sportsballhub.com^				#sportsballhub.com
+||stroeerdigitalgroup.de^			#cdn.stroeerdigitalgroup.de
+||taboola.com^						#images.taboola.com	am-trc-events.taboola.com	beacon.taboola.com	cdn.taboola.com	trc.taboola.com	nr-events.taboola.com	display.bidder.taboola.com	videos.taboola.com	am-match.taboola.com	am-wf.taboola.com	c2.taboola.com
 ||taggrs.io^
-||theadex.com^
-||toolara.net^
+||theadex.com^						#dmp.theadex.com	api.theadex.com
+||toolara.net^						#toolara.net
 ||topblockchainsolutions.nl^
 ||tpbid.com^
-||tremorhub.com^
+||tremorhub.com^					#pbs.publishers.tremorhub.com
 ||vlc.de^
 ||vungle.com^
-||yandex.ru^
-||yieldlove.com^
+||xplosion.de^						#xplosion.de	lns-ev.xplosion.de
+||yandex.ru^						#yandex.ru
+||yieldlove.com^					#cdn-a.yieldlove.com
