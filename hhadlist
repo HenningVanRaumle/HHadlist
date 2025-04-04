@@ -19,6 +19,7 @@ cdn2.inner-active.mobi
 ck.ads.oppomobile.com
 events.reddit.com
 impression.appsflyer.com
+incoming.telemetry.mozilla.org
 log.byteoversea.com
 log.fc.yahoo.com
 nemo.logs.roku.com
@@ -27,20 +28,22 @@ prod.ads.prod.webservices.mozgcp.net
 sankjerusalemflabbergasted.com
 sdk-events.inner-active.mobi
 supportmetrics.apple.com
+telemetry-incoming.r53-2.services.mozilla.com
 udc.yahoo.com
 udcm.yahoo.com
+urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses are used for scams
 
 
 ||360yield.com^						#360yield.com	ad.360yield.com	dsp.360yield.com
 ||3lift.com^						#eb2.3lift.com
 ||ad-preview.com^					#intern-dev.ad-preview.com
 ||ad-production-stage.com^			#osmtiles.ad-production-stage.com	tr.ad-production-stage.com	www.ad-production-stage.com
-||adform.net^
+||adform.net^						#c1.adform.net
 ||adition.com^						#ad2.adfarm1.adition.com
 ||adjust.com^
 ||adligature.com^
 ||admanmedia.com^
-||adnami.io^
+||adnami.io^						#functions.adnami.io
 ||adnxs-simple.com^
 ||adnxs.com^						#acdn.adnxs.com	ib.adnxs.com	msft-ssp-emea.adnxs.com
 ||adnxs.net^						#shftr.adnxs.net
@@ -61,7 +64,7 @@ udcm.yahoo.com
 ||applovin.com^
 ||applvn.com^
 ||appsflyersdk.com^
-||audacity.de^
+||audacity.de^						#not the original
 ||baidu.com^						#www.baidu.com
 ||bidmachine.io^
 ||chestgoingpunch.com^
@@ -96,7 +99,7 @@ udcm.yahoo.com
 ||topblockchainsolutions.nl^
 ||tpbid.com^
 ||tremorhub.com^					#pbs.publishers.tremorhub.com
-||vlc.de^
+||vlc.de^							#not the original
 ||vungle.com^
 ||xplosion.de^						#xplosion.de	lns-ev.xplosion.de
 ||yandex.ru^						#yandex.ru
