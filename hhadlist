@@ -25,6 +25,7 @@ log.fc.yahoo.com
 nemo.logs.roku.com
 pagead2.googleadservices.com
 prod.ads.prod.webservices.mozgcp.net
+prod.ads.prod.webservices.mozgcp.net
 sankjerusalemflabbergasted.com
 sdk-events.inner-active.mobi
 supportmetrics.apple.com
@@ -53,6 +54,7 @@ urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses 
 ||adrecover.com^
 ||adrtx.net^
 ||ads-img.mozilla.org^
+||ads-twitter.com^					#static.ads-twitter.com
 ||ads.roku.com^						#identity.ads.roku.com
 ||adscale.de^						#fsc.adscale.de	ih.adscale.de
 ||adsmoloco.com^
