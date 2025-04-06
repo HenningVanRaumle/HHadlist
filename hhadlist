@@ -69,6 +69,9 @@ urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses 
 ||audacity.de^						#not the original
 ||baidu.com^						#www.baidu.com
 ||bidmachine.io^
+||brandmetrics.com^					#collector.brandmetrics.com
+||casalemedia.com^					#htlb.casalemedia.com
+||chartbeat.net^					#ping.chartbeat.net
 ||chestgoingpunch.com^
 ||ejectbagsindefinite.com^
 ||everestop.io^
@@ -79,6 +82,7 @@ urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses 
 ||hotjar.com^
 ||hotjar.io^
 ||hrtyj.com^
+||id5-sync.com^						#cdn.id5-sync.com
 ||ioam.de^							#script.ioam.de
 ||luckyorange.com^
 ||mouseflow.com^
@@ -86,6 +90,9 @@ urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses 
 ||nativendo.de^						#c.nativendo.de	d.nativendo.de
 ||nicklusia.com^
 ||novabeyond.com^
+||permutive.app^					#cdn.permutive.app
+||permutive.com^					#cdn.permutive.com	api.permutive.com
+||privacymanager.io^				#launchpad.privacymanager.io
 ||safedk.com^
 ||sendgrid.net^
 ||sexfindyou25.com^
@@ -102,7 +109,10 @@ urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses 
 ||tpbid.com^
 ||tremorhub.com^					#pbs.publishers.tremorhub.com
 ||vlc.de^							#not the original
+||vlyby.com^						#v2track.vlyby.com	cdn.vlyby.com
 ||vungle.com^
+||wfxtriggers.com^					#partners.wfxtriggers.com
 ||xplosion.de^						#xplosion.de	lns-ev.xplosion.de
 ||yandex.ru^						#yandex.ru
+||yieldlove-ad-serving.net^			#s2s.yieldlove-ad-serving.net
 ||yieldlove.com^					#cdn-a.yieldlove.com
