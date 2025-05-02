@@ -55,10 +55,13 @@ urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses 
 ||adrtx.net^
 ||ads-img.mozilla.org^
 ||ads-twitter.com^					#static.ads-twitter.com
+||ads.mozilla.org^					#ads.mozilla.org
+||ads.prod.webservices.mozgcp.net^	#mc.prod.ads.prod.webservices.mozgcp.net
 ||ads.roku.com^						#identity.ads.roku.com
 ||adscale.de^						#fsc.adscale.de	ih.adscale.de
 ||adsmoloco.com^
 ||adtrafficquality.google^			#ep1.adtrafficquality.google	ep2.adtrafficquality.google
+||adverster.b-cdn.net^				#adverster.b-cdn.net
 ||adx.opera.com^					#t.adx.opera.com
 ||agma-analytics.de^				#pbc.agma-analytics.de
 ||amandahugnkiss.org^				#amandahugnkiss.org
@@ -103,6 +106,7 @@ urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses 
 ||stroeerdigitalgroup.de^			#cdn.stroeerdigitalgroup.de
 ||taboola.com^						#images.taboola.com	am-trc-events.taboola.com	beacon.taboola.com	cdn.taboola.com	trc.taboola.com	nr-events.taboola.com	display.bidder.taboola.com	videos.taboola.com	am-match.taboola.com	am-wf.taboola.com	c2.taboola.com
 ||taggrs.io^
+||teads.tv^							#at.teads.tv
 ||theadex.com^						#dmp.theadex.com	api.theadex.com
 ||toolara.net^						#toolara.net
 ||topblockchainsolutions.nl^
