@@ -130,3 +130,6 @@ urmentra.z4.web.core.windows.net	#windows.net is legitimate, but some addresses 
 ||showpicmoi.com^
 ||speedcurve.com^
 ||scorecardresearch.com^
+||l-iw.de^        #static.l-iw.de
+||wipe.de^        #tb.wwa.wipe.de
+||scorecardresearch.com      #sb.scorecardresearch.com
